@@ -1,16 +1,37 @@
-## Hi there 👋
+<h1 align="center">Olá!👋, eu sou o João Pedro! </h1>
 
-<!--
-**Joao-Pedro132/Joao-Pedro132** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  💻 Cursando Técnico Desenvolvimento de Sistemas - SENAI <br>
+  👨‍💻 Desenvolvimento projetos em Python | Portugol | PHP 
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Sobre mim
+
+- 🎯 Focado em desenvolvimento FullStack
+
+---
+
+### 🤖 Tecnologias que uso 
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,vscode,windows,linux,github,html,php">
+</p>
+
+---
+
+### 📈 Estatísticas 
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Joao-Pedro132&show_icons=true&theme=tokyonight">
+  <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Joao-Pedro132&layout=compact&theme=tokyonight">
+</p>
+
+---
+
+### 📫 Contato 
+
+<a href="mailto:amaraljoaopedroperboni@gmail.com">
+  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"> 
+</a>
